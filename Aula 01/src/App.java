@@ -17,6 +17,6 @@ public class App {
         
         // Extrair só os dados que intereressam (Título, poster, classificação)
 
-        // Exibir e manipular os dados
+        // Exibir e manipular os dadoseeeeeeeeeeeeeeeeeeeeeeee
     }
 }
