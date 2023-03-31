@@ -23,6 +23,11 @@ public class App {
         
         
         // Exibir e manipular os dados
-        for
+        for (Map<String, String> filme : listDeFilmesList){
+            System.out.println("Título: " + filme.get("title"));
+            System.out.println("Poster: " + filme.get("image"));
+            System.out.println("classificação: " + filme.get("imDbRating"));
+            System.out.println();
+        }
     }
 }
